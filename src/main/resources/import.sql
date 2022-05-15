@@ -1,0 +1,10 @@
+INSERT INTO alumno (nombre, apellido, email, create_at) VALUES ('Alumno1', 'Apellido1', 'alumno1@gmail.com', '2022-05-14');
+INSERT INTO alumno (nombre, apellido, email, create_at) VALUES ('Alumno2', 'Apellido2', 'alumno2@gmail.com', '2022-05-14');
+INSERT INTO alumno (nombre, apellido, email, create_at) VALUES ('Alumno3', 'Apellido3', 'alumno3@gmail.com', '2022-05-14');
+INSERT INTO alumno (nombre, apellido, email, create_at) VALUES ('Alumno4', 'Apellido4', 'alumno4@gmail.com', '2022-05-14');
+INSERT INTO curso (nombre) VALUES ('Curso 1');
+INSERT INTO curso (nombre) VALUES ('Curso 2');
+INSERT INTO curso (nombre) VALUES ('Curso 3');
+INSERT INTO curso (nombre) VALUES ('Curso 4');
+INSERT INTO curso (nombre) VALUES ('Curso 5');
+INSERT INTO curso (nombre) VALUES ('Curso 6');
